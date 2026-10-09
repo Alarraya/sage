@@ -1794,9 +1794,9 @@ class DeltaComplexExamples:
             
             sage: delta_complexes.HypersurfaceComplement(2,2)
             Delta complex with 3 vertices and 14 simplices
-            sage: delta-complexes.HypersurfaceComplement(2,2).homology(1)
+            sage: delta_complexes.HypersurfaceComplement(2,2).homology(1)
             C2
-            sage: delta-complexes.HypersurfaceComplement(2,2).homology(2)
+            sage: delta_complexes.HypersurfaceComplement(2,2).homology(2)
             0
         
         REFERENCES:
